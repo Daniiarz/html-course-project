@@ -1,0 +1,17 @@
+/* Basic CSS selector examples */
+h1{
+    color: green;
+    font-size: 45px;
+}
+
+p{
+    background-color: aqua;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+div p {
+    background-color: red;
+    color: #000000;
+    font-size: 20px;
+}
